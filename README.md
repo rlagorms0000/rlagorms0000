@@ -1,10 +1,10 @@
-# Open Source Software Assignment
+# Open Source Software 
 
 
 
 :partying_face:
 
-**This file was created for an assignment**
+**This repository was created for an assignment**
 
-[GitHub](https://github.com/rlagorms0000/rlagorms0000)
+[repository](https://github.com/rlagorms0000/rlagorms0000)
 
